@@ -10,6 +10,8 @@ I’m Ryoma, a passionate software engineer who enjoys crafting both functional 
   💻 Exploring creative projects with **React**  
   🦀 Diving into systems programming with **Rust**
 
+- 📝 [Blog](https://ryomayama.com/en/)
+
 ### Tech Stack
 
 - **Languages**:  
